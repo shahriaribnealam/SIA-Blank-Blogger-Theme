@@ -2,7 +2,7 @@
 
 Template Name: SIA Blank Blogger Theme \
 Description: This is a Blank Theme/Template For Blogger-Blogspot Website. \
-Template URI: https://github.com/shahriaribnealam/SIA-Blank-Blogger-Theme. \
+Template URI: https://github.com/shahriaribnealam/SIA-Blank-Blogger-Theme \
 Author: Shahriar Ibne Alam \
 Author URI: https://www.shahriaribnealam.com \
 Version: Latest
