@@ -16,7 +16,7 @@ Version: Latest
 * Then click Restore
 * Then upload your downloded sia-blank.xml theme and click Upload
 
-That's all. \
+That's all.
 
 Best Regards, \
 Shahriar Ibne Alam
