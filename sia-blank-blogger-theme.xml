@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='https://www.google.com/2005/gml/b' xmlns:data='https://www.google.com/2005/gml/data' xmlns:expr='https://www.google.com/2005/gml/expr'> 
+<head>
+<title>Your Website Title</title>
+<b:include data='blog' name='all-head-content'/> 
+<b:skin>
+<![CDATA[
+/*
+Template Name: SIA Blank Blogger Theme
+Description: This Is A Blank Theme/Template For Blogger/Blogspot Website
+Template URI: https://github.com/shahriaribnealam/SIA-Blank-Blogger-Theme
+Author: Shahriar Ibne Alam
+Author URI: https://www.shahriaribnealam.com
+*/
+
+/* Write Your All CSS From Here*/
+body {background-color: #fff;}
+]]>
+</b:skin>  
+</head>
+<body>
+<!-- Your All Code Here -->
+<center><h1>Hello World!</h1></center>
+<!-- This Widget Must Be Required. Do Not Delete -->
+<b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='no'/>
+<!-- Footer Section -->
+<center>Template By: <a href="https://www.shahriaribnealam.com">Shahriar Ibne Alam</a></center>
+</body> 
+</html>
